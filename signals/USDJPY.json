@@ -1,5 +1,5 @@
 {
-  "id": "20260822T224949Z-USDJPY-2b69a4",
+  "id": "20260822T233930Z-USDJPY-bdcf18",
   "action": "WAIT",
   "symbol": "USDJPY",
   "timeframe": "H1",
@@ -9,5 +9,5 @@
   "strength": "0",
   "reason": "bridge error: 404 Client Error: Not Found for url: https://api.twelvedata.com/quote?symbol=USDJPY&apikey=b9fba0c8b7664b5a80c42108569f38c9",
   "risk": "data pipeline failure - treat as no signal",
-  "generated_at": "2026-08-22T22:49:49.654060+00:00"
+  "generated_at": "2026-08-22T23:39:30.882675+00:00"
 }
