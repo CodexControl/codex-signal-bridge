@@ -1,5 +1,5 @@
 {
-  "id": "20260823T095918Z-EURUSD-67d467",
+  "id": "20260823T105556Z-EURUSD-59aa24",
   "action": "WAIT",
   "symbol": "EURUSD",
   "timeframe": "H1",
@@ -9,5 +9,5 @@
   "strength": "0",
   "reason": "bridge error: 404 Client Error: Not Found for url: https://api.twelvedata.com/quote?symbol=EURUSD&apikey=b9fba0c8b7664b5a80c42108569f38c9",
   "risk": "data pipeline failure - treat as no signal",
-  "generated_at": "2026-08-23T09:59:18.446374+00:00"
+  "generated_at": "2026-08-23T10:55:56.502668+00:00"
 }
