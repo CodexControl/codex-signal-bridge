@@ -1,5 +1,5 @@
 {
-  "id": "20260829T005104Z-GBPUSD-79a192",
+  "id": "20260829T010606Z-GBPUSD-9b8c79",
   "action": "WAIT",
   "symbol": "GBPUSD",
   "timeframe": "H1",
@@ -9,5 +9,5 @@
   "strength": "0",
   "reason": "bridge error: 404 Client Error: Not Found for url: https://api.twelvedata.com/quote?symbol=GBPUSD&apikey=b9fba0c8b7664b5a80c42108569f38c9",
   "risk": "data pipeline failure - treat as no signal",
-  "generated_at": "2026-08-29T00:51:04.749981+00:00"
+  "generated_at": "2026-08-29T01:06:06.927550+00:00"
 }
