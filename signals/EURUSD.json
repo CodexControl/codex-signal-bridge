@@ -1,5 +1,5 @@
 {
-  "id": "20260901T061504Z-EURUSD-78b43d",
+  "id": "20260901T063725Z-EURUSD-e038d4",
   "action": "WAIT",
   "symbol": "EURUSD",
   "timeframe": "H1",
@@ -7,7 +7,7 @@
   "stop": "0",
   "target": "0",
   "strength": "0",
-  "reason": "bridge error: 520 Server Error: <none> for url: https://api.twelvedata.com/quote?symbol=EURUSD&apikey=b9fba0c8b7664b5a80c42108569f38c9",
+  "reason": "bridge error: 500 Server Error: Internal Server Error for url: https://api.twelvedata.com/quote?symbol=EURUSD&apikey=b9fba0c8b7664b5a80c42108569f38c9",
   "risk": "data pipeline failure - treat as no signal",
-  "generated_at": "2026-09-01T06:15:04.710200+00:00"
+  "generated_at": "2026-09-01T06:37:25.509804+00:00"
 }

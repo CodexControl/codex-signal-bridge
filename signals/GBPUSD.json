@@ -1,5 +1,5 @@
 {
-  "id": "20260901T061505Z-GBPUSD-6413b9",
+  "id": "20260901T063726Z-GBPUSD-dc65cc",
   "action": "WAIT",
   "symbol": "GBPUSD",
   "timeframe": "H1",
@@ -7,7 +7,7 @@
   "stop": "0",
   "target": "0",
   "strength": "0",
-  "reason": "bridge error: 502 Server Error: Bad Gateway for url: https://api.twelvedata.com/quote?symbol=GBPUSD&apikey=b9fba0c8b7664b5a80c42108569f38c9",
+  "reason": "bridge error: 500 Server Error: Internal Server Error for url: https://api.twelvedata.com/quote?symbol=GBPUSD&apikey=b9fba0c8b7664b5a80c42108569f38c9",
   "risk": "data pipeline failure - treat as no signal",
-  "generated_at": "2026-09-01T06:15:05.747624+00:00"
+  "generated_at": "2026-09-01T06:37:26.554976+00:00"
 }
