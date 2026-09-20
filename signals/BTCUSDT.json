@@ -1,5 +1,5 @@
 {
-  "id": "20260920T201043Z-BTCUSDT-d17c04",
+  "id": "20260920T202542Z-BTCUSDT-ed5cd0",
   "action": "WAIT",
   "symbol": "BTCUSDT",
   "timeframe": "H1",
@@ -9,5 +9,5 @@
   "strength": "0",
   "reason": "bridge error: 404 Client Error: Not Found for url: https://api.twelvedata.com/quote?symbol=BTCUSDT&apikey=b9fba0c8b7664b5a80c42108569f38c9",
   "risk": "data pipeline failure - treat as no signal",
-  "generated_at": "2026-09-20T20:10:43.576986+00:00"
+  "generated_at": "2026-09-20T20:25:42.225096+00:00"
 }
